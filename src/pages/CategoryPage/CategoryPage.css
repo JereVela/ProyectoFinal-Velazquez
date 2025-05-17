@@ -1,0 +1,12 @@
+.grid-container-2{
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 5px;
+    background-color: rgb(50, 50, 50);
+}
+
+img-shop{
+    height: 140px;
+}

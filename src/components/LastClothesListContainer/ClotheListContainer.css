@@ -1,0 +1,10 @@
+.container-grid{
+    background-color: rgb(50, 50, 50);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 1vh;
+    row-gap: 1vh;
+}
+

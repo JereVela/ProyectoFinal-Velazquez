@@ -1,0 +1,30 @@
+.HomePage{
+    width: 100%;
+}
+
+.firstSection{
+    width: 100%;
+    height: 90vh;
+    background-color: #86008b;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+  
+
+  
+
+  .box2{
+    grid-area: box2;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+  }
+
+  
